@@ -1,4 +1,4 @@
-namespace Ecommerce.Doamin.Common;
+namespace Ecommerce.Domain.Common;
 
 public abstract class BaseDomainModel
 {
